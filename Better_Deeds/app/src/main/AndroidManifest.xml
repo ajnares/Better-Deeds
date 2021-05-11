@@ -9,6 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.Better_Deeds">
+        <activity android:name=".GamePopUp">
+        </activity>
         <activity android:name=".GameExplaination">
         </activity>
         <activity android:name=".GameplayProper">
